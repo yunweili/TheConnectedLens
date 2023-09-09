@@ -4,6 +4,10 @@
 
 The Connected Lens
 
+Information: 
+
+The Connected Lens is a program that was founded with closing the language and cultural barrier of immigrants as they transition to the United States. Our online service allows individuals to connect to another individual of a similar culture and ethnicity, allowing them to bond together, making new friends and building connections that eases up the transition.
+
 Complete Guide
 
 Introduction
