@@ -1,4 +1,4 @@
-# TheConnectedLens
+# The Connected Lens
 
 2023 September
 
