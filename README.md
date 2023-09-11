@@ -1,14 +1,10 @@
 # The Connected Lens
 
-2023 September
-
-The Connected Lens
+The following is a full guide to all the information that you need to know about The Connected Lens, if you ever have any questions, feel free to reach out to us through social media, out contact form, or through emailing us at theconnectedlens@gmail.com Good luck and hopefully you enjoy our service!
 
 Information: 
 
 The Connected Lens is a program that was founded with closing the language and cultural barrier of immigrants as they transition to the United States. Our online service allows individuals to connect to another individual of a similar culture and ethnicity, allowing them to bond together, making new friends and building connections that eases up the transition.
-
-Complete Guide
 
 Introduction
 The Connected Lens is a service intended to provide quality service and support to a variety of immigrants who are living in the United States that have trouble adjusting to the culture and thus have a hard time navigating everyday life. One of the most important and helpful tools in this situation is somebody to talk to, but often, they have very few connections in the community, and the language and cultural barrier often makes it hard for them to establish relevant connections. Many people are feeling this all over the United States, and thus we established The Connected Lens. The Connected Lens is a service that allows individuals of immigrant backgrounds to find “buddies” who can either be in their area or can be virtual that share a similar background to them, often having similar language or cultural identities, and thus are able to collaborate to make the transition as easy as possible.
