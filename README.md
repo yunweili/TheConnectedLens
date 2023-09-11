@@ -1,6 +1,6 @@
 # The Connected Lens
 
-The following is a full guide to all the information that you need to know about The Connected Lens, if you ever have any questions, feel free to reach out to us through social media, out contact form, or through emailing us at theconnectedlens@gmail.com Good luck and hopefully you enjoy our service!
+The following is a full guide to all the information that you need to know about The Connected Lens, if you ever have any questions, feel free to reach out to us through either the social media or contact form linked at the bottom of this page, or even through emailing us at theconnectedlens@gmail.com Good luck and hopefully you enjoy our service!
 
 Information: 
 
