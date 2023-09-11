@@ -36,20 +36,20 @@ We aim to use the following channels of communication for the following purposes
 
 **Linktree**: We aim to use the Linktree as a place where they are able to find all the important links to the resources that are associated with our brand in case they are confused and can’t find it through our website. The Linktree is relatively easy to use and is very organized, providing a full context and picture for the user to get involved with the service and to prevent any confusion that could arise. 
 # <a name="_yyrhu7ml5bea"></a>**Process Overview**
-1. ## <a name="_buwz1tcz7y35"></a>Buddy Matching 
+## <a name="_buwz1tcz7y35"></a>Buddy Matching 
 The first step for any user is to fill out our buddy matching, from then we are able to use the information that is provided to us to find them a suitable mentor and send them the request for the mentor. Once our system finds a mentor that we deem to be a possible suit for the user, we will send them an email asking for their permission and whether they would like to connect with that specific buddy. From there, they have an option to either accept or reject the proposal, and if they accept, we will move to the next step, but if they decline, we will continue searching for a potential suit for their “buddy” and will continue searching until we find one that is satisfactory for the user. 
-1. ## <a name="_p2nityf5kx5q"></a>Contact and Communication 
+## <a name="_p2nityf5kx5q">Contact and Communication 
 The second stage involves when the user accepts the “buddy request” and has a buddy assigned to them. From this step, we will often assign them a form of communication (Zoom, Meets, etc.) and we will exchange contact information as well as provide them with any assistance that may be necessary in ensuring they are able to communicate with each other. If they ever have any issues, they may request to drop their buddy, in which we will always honor without any questions. 
 
 **Plans for Expansion** 
 
 We intend to expand our services in the future, reaching more individuals, and overall building more features and possibilities with our service. One of the fundamental parts of this expansion involves adding new features, and we plan to add new services such as: 
 
-1. **English Lessons:** 
+**English Lessons:** 
 
 One of this major reasons for this challenge in integration for many immigrants has to do with the language barrier that often restricts their ability to communicate with others, receive information and updates, etc. and thus we want to be able to address this issue by offering them English Lessons that would be tailored to their needs and would adjust with their strengths and weaknesses in order to ensure that they are able to communicate and be comfortable with it in many situations that may arise in their lives. We intend that this service to be completely free, and there is no time limit, meaning they are able to use the service whenever they have the time, and we believe that the flexibility would be very important due to the fact that they may be busy, and we won't want our service to be too big of a burden.  
 
-1. **Interactive Activities:** 
+**Interactive Activities:** 
 
 One of the most useful activities that can help with breaking the language and cultural barrier is the use of interactive activities that develop both their language and cultural adaptation. We will offer a variety of interactive activities to assist them with learning English but also provide a variety of resources to help them adjust to the culture and be able to get involved in the community. 
 
