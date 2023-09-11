@@ -1,5 +1,3 @@
-﻿<a name="_9nvcibv3gama"></a>  3
-
 ## <a name="_z6ne0og04bp5"></a> 
 
 <a name="_2gazcsgmxkub"></a>**The Connected Lens Business Plan**
@@ -41,15 +39,15 @@ The first step for any user is to fill out our buddy matching, from then we are 
 ## <a name="_p2nityf5kx5q">Contact and Communication 
 The second stage involves when the user accepts the “buddy request” and has a buddy assigned to them. From this step, we will often assign them a form of communication (Zoom, Meets, etc.) and we will exchange contact information as well as provide them with any assistance that may be necessary in ensuring they are able to communicate with each other. If they ever have any issues, they may request to drop their buddy, in which we will always honor without any questions. 
 
-**Plans for Expansion** 
+# <a name="_yyrhu7ml5bea"></a>**Plans for Expansion**
 
 We intend to expand our services in the future, reaching more individuals, and overall building more features and possibilities with our service. One of the fundamental parts of this expansion involves adding new features, and we plan to add new services such as: 
 
-**English Lessons:** 
+## <a name="_p2nityf5kx5q">English Lessons
 
 One of this major reasons for this challenge in integration for many immigrants has to do with the language barrier that often restricts their ability to communicate with others, receive information and updates, etc. and thus we want to be able to address this issue by offering them English Lessons that would be tailored to their needs and would adjust with their strengths and weaknesses in order to ensure that they are able to communicate and be comfortable with it in many situations that may arise in their lives. We intend that this service to be completely free, and there is no time limit, meaning they are able to use the service whenever they have the time, and we believe that the flexibility would be very important due to the fact that they may be busy, and we won't want our service to be too big of a burden.  
 
-**Interactive Activities:** 
+## <a name="_p2nityf5kx5q">Interactive Activites
 
 One of the most useful activities that can help with breaking the language and cultural barrier is the use of interactive activities that develop both their language and cultural adaptation. We will offer a variety of interactive activities to assist them with learning English but also provide a variety of resources to help them adjust to the culture and be able to get involved in the community. 
 
